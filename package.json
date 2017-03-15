@@ -1,0 +1,12 @@
+{
+  "name": "day3b",
+  "version": "1.0.0",
+  "description": "",
+  "main": "findMissing.js",
+  "scripts": {
+    "test": "jasmine findNum_spec.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
