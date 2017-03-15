@@ -1,6 +1,5 @@
 var tester=require('./findNum.js');
-(function(){
-  'use strict'
+
 describe("Find missing number two lists: ", function() {
 
   describe("Case for en empty list", function() {
@@ -43,5 +42,4 @@ describe("Find missing number two lists: ", function() {
 
   });
 
-});
 });
